@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cars Guide</string>
+    <string name="error">Error</string>
+    <string name="ok_got_it">Ok Got it</string>
+</resources>
