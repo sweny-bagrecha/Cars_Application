@@ -1,4 +1,4 @@
-**Note from Sweny Bagrecha - Android Developer**
+**ReadMe**
 
 - Made use of Clean Architecture structure
 - Design Architecture Used: MVVM
